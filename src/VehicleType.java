@@ -3,5 +3,6 @@ public enum VehicleType {
     Car,
     Truck,
     Bike,
-    Bus
+    Bus,
+    Erickshaw
 }
